@@ -15,4 +15,4 @@
 Model is trained over 200 images to train it to detect the helmets/non helmet wearing riders
 
 
-
+object_custom_detection.ipynb file is used to train the model using darknet
